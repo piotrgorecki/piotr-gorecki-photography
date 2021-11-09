@@ -12,9 +12,13 @@ seo:
   extra: []
 layout: post
 ---
-## Lorem ipsum
+## Piękno jesieni mieniące się w tafli jeziora po środku wąwozu.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Park narodowy Soderosen jest jednym z najpiękniejszych, jeśli nie najpięknieszym parkiem w całej Skanii. Położony jest w centralnej części Półwyspu 
 
-- Lorem ipsum
-- dolor sit amet
+![](/images/PA310009.jpg)
+
+> *Cośtam cośtam*
+
+
+
