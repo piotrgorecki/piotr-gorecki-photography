@@ -10,6 +10,7 @@ seo:
   robots: []
   extra: []
 layout: post
+thumb_img_path: /images/PA310008.jpg
 ---
 W tym miejscu chciałbym opisać chyba najpiękniejsze miejsce w jesiennym pejzażu Skanii. Jest nim **Park Narodowy Söderåsen** (*Söderåsens nationalpark*).
 
