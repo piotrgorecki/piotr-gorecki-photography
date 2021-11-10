@@ -14,7 +14,7 @@ layout: post
 ---
 ## Piękno jesieni mieniące się w tafli jeziora po środku wąwozu.
 
-Park narodowy Soderosen jest jednym z najpiękniejszych, jeśli nie najpięknieszym parkiem w całej Skanii. Położony jest w centralnej części Półwyspu
+Park narodowy Söderåsen jest jednym z najpiękniejszych, jeśli nie najpięknieszym w całej Skanii. Położony jest w centralnej części Półwyspu
 
 ![](https://preview--piotr-gorecki-photography-81b7c.stackbit.dev/images/PA310009.jpg)
 
@@ -24,13 +24,15 @@ Park narodowy Söderåsen znajduje się około 40km na wschód od miasta Helsin
 
 ddfsdf
 
-
-
 ![](/images/Soderasens-map-1-121f38ea.png)
 
 
 
+szlaki:
 
+![](/images/Soderasens-map-3.png)
+
+W Söderåsen do dyspozycji turystów przygotowane jest siedem szlaków. 
 
 
 
