@@ -1,5 +1,5 @@
 ---
-title: "Söderåsens nationalpark - Sveriges nationalparker - Park narodowy w\_Söderåsens"
+title: 'Park Narodowy Söderåsen[edytuj]'
 subtitle: lorem-ipsum
 date: '2021-11-09'
 thumb_img_alt: lorem-ipsum
