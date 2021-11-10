@@ -27,6 +27,12 @@ Söderåsen to bardzo lubiane miejsce na lunch, czy to w przyklejonej do naturu
 
 Najbardziej reprezentatywna, a co za tym idzie, widowiskowa część parku leży tuż obok wspomnianej wyżej strefy - a jest niął przepiękne jezioro otoczone z dwóch stron zboczem wąwozu porośniętego lasem bukowym. Jezioro, szczególnie jesienią, wygląda przepięknie, odbijając w spokojnej tafli płomienne liście drzew. Całe szczęście tylko ptactwo wodne mąci ten spokój. Wodę do jeziora doprowadza rzeka wypływająca z głębi wąwozu, a jej nadmiar uchodzi szumnie przez tamę nad którą prowadzi most wyprowadzający turystów w siatkę pieszych szlaków o różnym poziomie trudności.
 
+![](/images/PA310021.jpg)
+
+jkjk
+
+
+
 ![](/images/Soderasens-map-2-595fe623.png)
 
 ddfsdf
