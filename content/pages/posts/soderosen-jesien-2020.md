@@ -13,8 +13,6 @@ layout: post
 ---
 W tym miejscu chciałbym opisać chyba najpiękniejsze miejsce w jesiennym pejzażu Skanii. Jest nim **Park Narodowy Söderåsen** (*Söderåsens nationalpark*).
 
-
-
 Söderåsen znajduje się około 40km na wschód od miasta Helsingborg, w najbardziej wysuniętej na południe prowincji *Skåne län*. Główne wejście zlokalizowane jest przy szosie numer 13, pomiędzy miastami Röstånga iLjungbyhed. Już sam dojazd do parku może być całkiem przyjemny, szczególnie początkowy odcinek od skżyżowania w Röstånga, gdy całkiem szeroka szosa wije się pod sklepieniem potężnych koron starych buków.
 
 Chociaż park posiada spory parking, w weekendy przy ładnej pogodzie zapełnia się już około godziny 11. W sezonie turystycznym ruch samochodowy na parkingu wspierany jest przez pracowników parku.
@@ -31,11 +29,11 @@ Najbardziej reprezentatywna, a co za tym idzie, widowiskowa część parku leży
 
 jkjk
 
-![](/images/Soderasens-map-2-595fe623.png)
+
 
 ddfsdf
 
-![](/images/Soderasens-map-1-121f38ea.png)
+
 
 szlaki:
 
