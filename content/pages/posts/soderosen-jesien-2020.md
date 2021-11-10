@@ -20,9 +20,13 @@ Park narodowy Soderosen jest jednym z najpiękniejszych, jeśli nie najpięknies
 
 Park narodowy Söderåsen znajduje się około 40km na wschód od miasta Helsingborg, w regionie Skane Land. Położony jest w malowniczym kanionie, porośniętym lasem bukowym. Przez środek kanionu płynie rzeka wpadająca do pięknego jeziora.
 
-
-
 ![](/images/Soderasens-map-2-595fe623.png)
+
+ddfsdf
+
+
+
+![](/images/Soderasens-map-1-121f38ea.png)
 
 
 
@@ -33,4 +37,3 @@ Park narodowy Söderåsen znajduje się około 40km na wschód od miasta Helsin
 
 
 Po więcej informacji zapraszam na [oficjalną stronę parku](https://www.nationalparksofsweden.se/choose-park---list/soderasen-national-park/visitor-information/getting-here/).
-
