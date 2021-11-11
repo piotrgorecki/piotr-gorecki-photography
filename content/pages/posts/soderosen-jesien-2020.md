@@ -15,7 +15,7 @@ W tym miejscu chciałbym opisać chyba najpiękniejsze miejsce w jesiennym pejza
 
 ![](/images/PA310013-ee2cc644.jpg)
 
-# Lokalizacja
+## Lokalizacja
 
 Söderåsen znajduje się około 40km na wschód od miasta Helsingborg, w najbardziej wysuniętej na południe prowincji *Skåne län*. Główne wejście zlokalizowane jest przy szosie numer 13, pomiędzy miastami Röstånga iLjungbyhed. Już sam dojazd do parku może być całkiem przyjemny, szczególnie początkowy odcinek od skżyżowania w Röstånga, gdy całkiem szeroka szosa wije się pod sklepieniem potężnych koron starych buków.
 
@@ -25,7 +25,7 @@ Chociaż park posiada spory parking, w weekendy przy ładnej pogodzie zapełnia 
 
 ![](/images/Soderasens-map-1-55bf7d1f.png)
 
-# Co tutaj znajdziesz
+## Co tutaj znajdziesz
 
 Kilkadziesiąt metrów od parkingu znajduje się głowna częśc parku, na którą składa się \*naturum \*- jest to budynek pomocy turystycznej w którym ulokowana jest niewielką stała wystawa poświęconą lokalnej przyrodzie oraz część edukacyjna dla najmłodszych. Zaraz przy budynku przygotowany jest plac zabaw dla dzieci, pełen figurek dinozaurów, zjeżdzalni itd.
 
@@ -41,7 +41,7 @@ Coś jeszcze...
 
 ![](/images/PA310023-b0ab0466.jpg)
 
-# Szlaki turystyczne
+## Szlaki turystyczne
 
 ![](/images/Soderasens-map-3.png)
 
